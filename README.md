@@ -1,7 +1,7 @@
 ## SemOpenAlex-SemanticWeb
 
 
-SemOpenAlex-SemanticWeb (SOA-SW) is a subset of [SemOpenAlex](https://semopenalex.org/) modelling the Semantic Web Community.
+SemOpenAlex-SemanticWeb (SOA-SW) is a subset of the RDF Knowledge Graph [SemOpenAlex](https://semopenalex.org/) modelling the Semantic Web Community.
 SOA-SW is a suitable databasis for creating graph benchmark datasets for GNN-based recommendation.
 
 
